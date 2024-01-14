@@ -40,3 +40,7 @@ Follow these steps to get started with your DP-203 certification journey:
    ```bash
    git clone https://github.com/your-username/dp-203-certification-journey.git
    cd dp-203-certification-journey
+
+2. Follow this course on UDEMY:
+- [DP-203 - Data Engineering on Microsoft Azure](https://www.udemy.com/course/data-engineering-on-microsoft-azure/)
+   
