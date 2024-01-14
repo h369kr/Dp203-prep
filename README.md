@@ -43,4 +43,7 @@ Follow these steps to get started with your DP-203 certification journey:
 
 2. Follow this course on UDEMY:
 - [DP-203 - Data Engineering on Microsoft Azure](https://www.udemy.com/course/data-engineering-on-microsoft-azure/)
+
+3. For dumps:
+- (https://certyiq.com/papers?provider=microsoft&exam=dp-203&page=1)
    
