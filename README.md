@@ -46,4 +46,7 @@ Follow these steps to get started with your DP-203 certification journey:
 
 3. For dumps:
 - (https://certyiq.com/papers?provider=microsoft&exam=dp-203&page=1)
+
+4. For 50% off finish the link within 30 days:
+- (https://learn.microsoft.com/en-us/training/challenges?id=3d6cb3b9-f4b7-4d7b-ab23-57faa1762705&wt.mc_id=cloudskillschallenge_3d6cb3b9-f4b7-4d7b-ab23-57faa1762705_30dtli_web_wwl)
    
