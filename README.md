@@ -41,7 +41,7 @@ Follow these steps to get started with your DP-203 certification journey:
    git clone https://github.com/your-username/dp-203-certification-journey.git
    cd dp-203-certification-journey
 
-2. Follow this course on UDEMY:
+2. Finish this course on UDEMY:
 - [DP-203 - Data Engineering on Microsoft Azure](https://www.udemy.com/course/data-engineering-on-microsoft-azure/)
 
 3. For dumps:
@@ -50,3 +50,4 @@ Follow these steps to get started with your DP-203 certification journey:
 4. For 50% off finish this challenge within 30 days:
 - (https://learn.microsoft.com/en-us/training/challenges?id=3d6cb3b9-f4b7-4d7b-ab23-57faa1762705&wt.mc_id=cloudskillschallenge_3d6cb3b9-f4b7-4d7b-ab23-57faa1762705_30dtli_web_wwl)
    
+- https://medium.com/@h369kr
